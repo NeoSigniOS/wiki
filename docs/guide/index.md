@@ -39,7 +39,7 @@ Having issues? Our help section covers everything you need:
 
 - **[Common Issues](/guide/troubleshooting/common-issues)** - Solutions to frequently encountered problems
 - **[Troubleshooting](/guide/troubleshooting/troubleshooting)** - Step-by-step fixes for technical issues  
-- **[Certificate FAQ](/guide/troubleshooting/certificates)** - Everything about app certificates and signing
+- **[Discord Support](/guide/troubleshooting/discord)** - Join our community for help and support
 
 ## What You'll Learn
 
