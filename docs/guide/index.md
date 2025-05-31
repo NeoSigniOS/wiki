@@ -1,0 +1,62 @@
+# Sideloading Documentation
+
+Welcome to the complete sideloading documentation! This guide covers everything you need to know about installing and managing apps on your iOS device outside the App Store.
+
+## Getting Started
+
+Before you begin sideloading apps, you'll need to prepare your device and understand the basics:
+
+- **[How to Download Signing Apps](/guide/getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
+- **[How to turn on Developer Mode](/guide/getting-started/developer-mode)** - Enable this essential setting on your iOS device
+- **[Common Issues](/guide/troubleshooting/common-issues)** - Most common issues and their solutions@
+
+## Signing Methods
+
+Choose the signing method that works best for your needs:
+
+### [Feather](/guide/apps/feather)
+A powerful open-source signing tool that runs directly on your iOS device. Perfect for users who want full control over their signing process.
+
+
+### [iDevice Feather](/guide/apps/idevice-feather) 
+Cross-platform signing solution that works on multiple devices. Great for users who need flexibility across different platforms.
+
+
+
+### [ESign](/guide/apps/esign)
+Popular iOS-native signing application with a user-friendly interface. Ideal for beginners getting started with sideloading.
+
+
+## Extra Guides
+
+### [Enabling JIT ](/guide/guides/enabling-jit)
+Learn how to enable Just-In-Time compilation for apps that require it, such as emulators and virtual machines tools.
+
+
+## Need Help?
+
+Having issues? Our help section covers everything you need:
+
+- **[Common Issues](/guide/troubleshooting/common-issues)** - Solutions to frequently encountered problems
+- **[Troubleshooting](/guide/troubleshooting/troubleshooting)** - Step-by-step fixes for technical issues  
+- **[Certificate FAQ](/guide/troubleshooting/certificates)** - Everything about app certificates and signing
+
+## What You'll Learn
+
+This documentation will teach you:
+
+- How to safely sideload applications
+- Managing app certificates and renewals
+- Troubleshooting common sideloading problems
+- Best practices for maintaining sideloaded apps
+
+::: tip Getting Help
+If you run into any issues while following these guides, check our FAQ section first. For additional support, our troubleshooting guides cover the most common problems and their solutions.
+:::
+
+## Quick Navigation
+
+
+## Ready to Start?
+
+Begin with our **[Getting Started](/guide/getting-started/developer-mode)** section to set up your device, then choose your preferred signing method from the options above. 
