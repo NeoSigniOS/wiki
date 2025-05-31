@@ -1,6 +1,6 @@
 # Sideloading Documentation
 
-Welcome to the complete sideloading documentation! This guide covers everything you need to know about installing and managing apps on your iOS device outside the App Store.
+Welcome to the complete sideloading documentation! This guide covers everything you need to know about installing and sideloading apps with your developer cert.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Before you begin sideloading apps, you'll need to prepare your device and unders
 
 - **[How to Download Signing Apps](/guide/getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
 - **[How to turn on Developer Mode](/guide/getting-started/developer-mode)** - Enable this essential setting on your iOS device
-- **[Common Issues](/guide/troubleshooting/common-issues)** - Most common issues and their solutions@
+- **[How to use Signing Apps](/guide/apps/feather)** - How to use sideload with apps like feather/esign
 
 ## Signing Methods
 
