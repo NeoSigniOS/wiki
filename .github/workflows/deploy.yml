@@ -31,14 +31,14 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
-        with:
-          enablement: true
 
       - name: Install dependencies
         run: npm ci
 
       - name: Build with VitePress
-        run: npm run docs:build
+        run: |
+          npm run docs:build
+          touch docs/.vitepress/dist/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -47,7 +47,7 @@ jobs:
 
   deploy:
     environment:
-      name: "github-pages"
+      name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: build
     runs-on: ubuntu-latest

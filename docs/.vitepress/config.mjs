@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Sideloading Docs',
   description: 'A minimalist documentation site',
+  base: '/wiki/',
   
   // dark theme by default
   appearance: 'dark',
