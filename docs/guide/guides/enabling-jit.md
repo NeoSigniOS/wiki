@@ -1,6 +1,4 @@
 # Enabling JIT 
-## Download StikDebug
-Download [StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) from the Apple App Store
 ## Pairing Instructions
 ### idevice pair Downloads
 - **Windows**: [iDevicePair--windows-x86_64.exe](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--windows-x86_64.exe)
@@ -23,8 +21,6 @@ If you update or reset your iDevice, your pairing file will become invalid and y
 5. Ensure your device is unlocked and opened to the home screen, then select "generate" (If already using idevice Feather, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
 6. Ensure your device is still open to the home screen, then scroll down to the StikDebug section and select "install". The word "success" should appear in green.
 
----
-
 ### macOS
 
 1. Download `iDevicePair--macos-universal.dmg`. Open the file and drag `idevice pair` to `Applications`.
@@ -32,8 +28,6 @@ If you update or reset your iDevice, your pairing file will become invalid and y
 3. Unlock your device, then open idevice pair and select your device in the drop-down menu.
 4. Ensure your device is unlocked and opened to the home screen, then select "generate" (If already using idevice Feather, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
 5. Ensure your device is still open to the home screen, then scroll down to the StikDebug section and select "install". The word "success" should appear in green.
-
----
 
 ### Linux
 
