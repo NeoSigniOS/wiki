@@ -1,6 +1,6 @@
 # Enabling JIT 
-# Download StikDebug
-StikDebug link goes here
+## Download StikDebug
+Download [StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) from the Apple App Store
 ## Pairing Instructions
 ### idevice pair Downloads
 - **Windows**: [iDevicePair--windows-x86_64.exe](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--windows-x86_64.exe)
@@ -9,10 +9,10 @@ StikDebug link goes here
 
 ---
 
-First, make sure Developer Mode is enabled on your iOS/iPadOS device (found in Settings -> Privacy & Security after sideloading an app), then follow the instructions below.
-
 idevice_pair allows us to create a pairing file for programs like StikDebug to talk to your device remotely. This is required to use StikDebug, otherwise it will not function.
-
+:::info
+If you update or reset your iDevice, your pairing file will become invalid and you will need to regenerate it
+:::
 ---
 
 ### Windows (64-bit)
@@ -49,4 +49,5 @@ sudo apt install -y usbmuxd
 5. Ensure your device is still open to the home screen, then scroll down to the StikDebug section and select "install". The word "success" should appear in green.
 
 ## Enabling JIT
-do
+The first time you open StikDebug, allow the VPN, and restart your app while on Wi-Fi to mount the DDI.
+Now, to enable JIT, simply open StikDebug, tap Attach Debugger, and select the app you want to enable JIT for!
