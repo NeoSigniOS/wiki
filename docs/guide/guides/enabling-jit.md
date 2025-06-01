@@ -7,13 +7,12 @@ Download [StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) from 
 - **macOS**: [iDevicePair--macos-universal.dmg](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--macos-universal.dmg)
 - **Linux**: (x86_64: [iDevicePair--linux-x86_64.AppImage](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--linux-x86_64.AppImage) or AArch64: [iDevicePair--linux-aarch64.AppImage](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--linux-aarch64.AppImage))
 
----
-
-idevice_pair allows us to create a pairing file for programs like StikDebug to talk to your device remotely. This is required to use StikDebug, otherwise it will not function.
+idevice pair allows us to create a pairing file for programs like StikDebug to talk to your device remotely. This is required to use StikDebug, otherwise it will not function.
 :::info
 If you update or reset your iDevice, your pairing file will become invalid and you will need to regenerate it
 :::
----
+
+## Operating System
 
 ### Windows (64-bit)
 
