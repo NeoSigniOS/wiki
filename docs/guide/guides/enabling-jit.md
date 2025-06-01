@@ -21,7 +21,7 @@ If you update or reset your iDevice, your pairing file will become invalid and y
 2. Download `iDevicePair--windows-x86_64.exe` (move it somewhere you won't lose it).
 3. Connect your secondary device to your computer via cable. If a prompt appears, tap "trust" and type in your passcode.
 4. Unlock your device, then, in File Explorer, open `idevice pair` and select your device in the drop-down menu.
-5. Ensure your device is unlocked and opened to the home screen, then select "generate" (If also using an app such as SideStore or Feather which utilizes a pairing file as well, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
+5. Ensure your device is unlocked and opened to the home screen, then select "generate" (If already using idevice Feather, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
 6. Ensure your device is still open to the home screen, then scroll down to the StikDebug section and select "install". The word "success" should appear in green.
 
 ---
@@ -31,7 +31,7 @@ If you update or reset your iDevice, your pairing file will become invalid and y
 1. Download `iDevicePair--macos-universal.dmg`. Open the file and drag `idevice pair` to `Applications`.
 2. Connect your secondary device to your computer via cable. If a prompt appears, tap "trust" and type in your passcode.
 3. Unlock your device, then open idevice pair and select your device in the drop-down menu.
-4. Ensure your device is unlocked and opened to the home screen, then select "generate" (If also using an app such as SideStore or Feather which utilizes a pairing file as well, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
+4. Ensure your device is unlocked and opened to the home screen, then select "generate" (If already using idevice Feather, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
 5. Ensure your device is still open to the home screen, then scroll down to the StikDebug section and select "install". The word "success" should appear in green.
 
 ---
@@ -45,7 +45,7 @@ sudo apt install -y usbmuxd
 2. Download the version of idevice pair that corresponds to your PC's architecture and make it executable.
 3. Connect your secondary device to your computer via cable. If a prompt appears, tap "trust" and type in your passcode.
 4. Unlock your device, then execute idevice pair and select your device in the drop-down menu.
-5. Ensure your device is unlocked and opened to the home screen, then select "generate" (If also using an app such as SideStore or Feather which utilizes a pairing file as well, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
+5. Ensure your device is unlocked and opened to the home screen, then select "generate" (If already using idevice Feather, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
 5. Ensure your device is still open to the home screen, then scroll down to the StikDebug section and select "install". The word "success" should appear in green.
 
 ## Enabling JIT
