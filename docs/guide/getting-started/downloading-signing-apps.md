@@ -10,7 +10,4 @@ Download your chosen signing app:
 2. Navigate to [sign.neosign.dev](https://sign.neosign.dev). Select the IPA file of your signer from downloads.
 3. Select your `.p12` certificate and provisioning profile from the `.zip` folder. Enter the password found in `password.txt`.
 4. Select `Sign IPA`, then select "Install".
-5. Follow the instructions to set up your chosen signer (will link to articles later):
-- Feather (Import certificates, installation type=semi-local)
-- idevice Feather (pairing file [idevice pair], StosVPN, import certificates, installation=semi-local)
-- Esign (I have no clue)
+Now, proceed to enable [developer mode](/guides/developer-mode).
