@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Sideloading Docs"
-  text: "Simple. Fast. Powerful."
-  tagline: "A minimalist documentation framework built for developers"
+  text: "Learn to Install the apps You Love "
+  tagline: "Learn how to Sideload with your Developer Cert"
   actions:
     - theme: brand
       text: Get Started
