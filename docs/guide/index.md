@@ -8,7 +8,7 @@ Before you begin sideloading apps, you'll need to prepare your device and unders
 
 - **[How to Download Signing Apps](/guide/getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
 - **[How to turn on Developer Mode](/guide/getting-started/developer-mode)** - Enable this essential setting on your iOS device
-- **[How to use Signing Apps](/guide/apps/feather)** - How to use sideload with apps like Feather
+- **[How to set up Signing Apps](/guide/apps/feather)** - How to use sideload with apps like Feather
 
 ## Signing Methods
 
@@ -18,13 +18,8 @@ Choose the signing method that works best for your needs:
 A powerful open-source signing tool that runs directly on your iOS device. Perfect for users who want full control over their signing process.
 
 
-### [iDevice Feather](/guide/apps/idevice-feather) 
+### [idevice Feather](/guide/apps/idevice-feather) 
 Cross-platform signing solution that works on multiple devices. Great for users who need flexibility across different platforms.
-
-
-
-### [ESign](/guide/apps/esign)
-Popular iOS-native signing application with a user-friendly interface. Ideal for beginners getting started with sideloading.
 
 
 ## Extra Guides
