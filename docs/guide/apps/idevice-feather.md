@@ -1,4 +1,4 @@
-# Signing with iDevice Feather 
+# Signing with idevice Feather 
 ## Prerequisites
 - Download [StosVPN](https://apps.apple.com/us/app/stosvpn/id6744003051) from the Apple App Store.
 - Open the Feather app you downloaded to set up your file structure. It also helps to create an automation in shortcuts enabling StosVPN whenever Feather is opened. Now, proceed to generate your pairing file.
