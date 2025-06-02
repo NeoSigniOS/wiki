@@ -8,7 +8,7 @@ Before you begin sideloading apps, you'll need to prepare your device and unders
 
 - **[How to Download Signing Apps](/guide/getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
 - **[How to turn on Developer Mode](/guide/getting-started/developer-mode)** - Enable this essential setting on your iOS device
-- **[How to set up Signing Apps](/guide/apps/feather)** - How to use sideload with apps like Feather
+- **How to set up Signing Apps ([Feather](/guide/apps/feather) or [idevice-Feather](/guide/apps/idevice-feather))** - How to sideload with your signer apps
 
 ## Signing Methods
 
@@ -24,7 +24,7 @@ Cross-platform signing solution that works on multiple devices. Great for users 
 
 ## Extra Guides
 
-### [Enabling JIT ](/guide/guides/enabling-jit)
+### [Enabling JIT](/guide/guides/enabling-jit)
 Learn how to enable Just-In-Time compilation for apps that require it, such as emulators and virtual machines tools.
 
 
