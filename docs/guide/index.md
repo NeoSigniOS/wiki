@@ -8,7 +8,7 @@ Before you begin sideloading apps, you'll need to prepare your device and unders
 
 - **[How to Download Signing Apps](/guide/getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
 - **[How to turn on Developer Mode](/guide/getting-started/developer-mode)** - Enable this essential setting on your iOS device
-- **[How to use Signing Apps](/guide/apps/feather)** - How to use sideload with apps like feather/esign
+- **[How to use Signing Apps](/guide/apps/feather)** - How to use sideload with apps like Feather
 
 ## Signing Methods
 

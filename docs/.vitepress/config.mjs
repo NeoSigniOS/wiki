@@ -5,8 +5,8 @@ export default defineConfig({
   description: 'A minimalist documentation site',
   base: '/wiki/',
   
-  // dark theme by default
-  appearance: 'dark',
+  // light theme by default
+  appearance: 'light',
   
   themeConfig: {
     // clean navigation
