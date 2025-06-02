@@ -1,20 +1,19 @@
 # Signing with iDevice Feather 
-## Download StosVPN
-Link here
-## pairing file guide
-open feather to set up file structure
+## Prerequisites
+- Download [StosVPN](https://apps.apple.com/us/app/stosvpn/id6744003051) from the Apple App Store.
+- Open the Feather app you downloaded to set up your file structure. It also helps to create an automation in shortcuts enabling StosVPN whenever Feather is opened. Now, proceed to generate your pairing file.
+## Pairing File Guide
 ### idevice pair Downloads
 - **Windows**: [iDevicePair--windows-x86_64.exe](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--windows-x86_64.exe)
 - **macOS**: [iDevicePair--macos-universal.dmg](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--macos-universal.dmg)
 - **Linux**: (x86_64: [iDevicePair--linux-x86_64.AppImage](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--linux-x86_64.AppImage) or AArch64: [iDevicePair--linux-aarch64.AppImage](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--linux-aarch64.AppImage))
 
-idevice pair allows us to create a pairing file for programs like idevice Feather to talk to your device remotely. This is required to use idevice Feather, otherwise it will not function.
+idevice pair allows us to create a pairing file for programs like idevice Feather to talk to your device remotely. This is required to use Feather-idevice, otherwise it will not function.
 :::info
-If you update or reset your iDevice, your pairing file will become invalid and you will need to regenerate it
+If you update or reset your iDevice, your pairing file will become invalid and you will need to regenerate it.
 :::
 
 ## Operating System
-
 ### Windows (64-bit)
 
 1. Install [iTunes](https://apple.com/itunes/download/win64) from Apple's website.
