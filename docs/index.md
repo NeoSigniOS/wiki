@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/
+      link: /docs/guide/
     - theme: alt
       text: View on GitHub
-      link: https://github.com
+      link: https://github.com/NeoSigniOS/wiki
 
 features:
   - title: ⚡ Lightning Fast
