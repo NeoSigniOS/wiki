@@ -14,7 +14,7 @@ export default defineConfig({
     // clean navigation
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' }
+      { text: 'Guide', link: '/docs/guide/' }
     ],
 
     // sidebar navigation
@@ -22,43 +22,43 @@ export default defineConfig({
       {
         text: 'Getting Started',
         items: [
-          { text: 'Introduction', link: '/guide/' },
-          { text: 'Downloading Signing Apps', link: '/guide/getting-started/downloading-signing-apps' },
-          { text: 'Turning on Developer Mode', link: '/guide/getting-started/developer-mode' }
+          { text: 'Introduction', link: '/docs/guide/' },
+          { text: 'Downloading Signing Apps', link: '/docs/guide/getting-started/downloading-signing-apps' },
+          { text: 'Turning on Developer Mode', link: '/docs/guide/getting-started/developer-mode' }
         ]
       },
       {
         text: 'Signing Apps',
         items: [
-          { text: 'Signing with Feather', link: '/guide/apps/feather' },
-          { text: 'Signing with idevice Feather', link: '/guide/apps/idevice-feather' },
+          { text: 'Signing with Feather', link: '/docs/guide/apps/feather' },
+          { text: 'Signing with idevice Feather', link: '/docs/guide/apps/idevice-feather' },
         ]
       },
       {
         text: 'Guides',
         items: [
-          { text: 'Enabling JIT', link: '/guide/guides/enabling-jit' }
+          { text: 'Enabling JIT', link: '/docs/guide/guides/enabling-jit' }
         ]
       },
       {
         text: 'Troubleshooting',
         items: [
-          { text: 'Common Issues', link: '/guide/troubleshooting/common-issues' },
-          { text: 'Troubleshooting', link: '/guide/troubleshooting/troubleshooting' },
-          { text: 'Discord Community', link: '/guide/troubleshooting/discord' }
+          { text: 'Common Issues', link: '/docs/guide/troubleshooting/common-issues' },
+          { text: 'Troubleshooting', link: '/docs/guide/troubleshooting/troubleshooting' },
+          { text: 'Discord Community', link: '/docs/guide/troubleshooting/discord' }
         ]
       }
     ],
 
     // social links
     socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/NeoSigniOS' }
     ],
 
     // footer
     footer: {
       message: 'Built with VitePress',
-      copyright: 'Copyright © 2024'
+      copyright: 'Copyright © 2025'
     }
   },
 
