@@ -6,9 +6,9 @@ Welcome to the complete sideloading documentation! This guide covers everything 
 
 Before you begin sideloading apps, you'll need to prepare your device and understand the basics:
 
-- **[How to Download Signing Apps](/getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
-- **[How to turn on Developer Mode](/getting-started/developer-mode)** - Enable this essential setting on your iOS device
-- **How to set up Signing Apps ([Feather](/apps/feather) or [Feather-idevice](/apps/idevice-feather))** - How to setup and sideload with your signer apps
+- **[How to Download Signing Apps](./getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
+- **[How to turn on Developer Mode](./getting-started/developer-mode)** - Enable this essential setting on your iOS device
+- **How to set up Signing Apps ([Feather](/apps/feather) or [Feather-idevice](./apps/idevice-feather))** - How to setup and sideload with your signer apps
 
 ## Signing Methods
 
@@ -32,9 +32,9 @@ Learn how to enable Just-In-Time compilation for apps that require it, such as e
 
 Having issues? Our help section covers everything you need:
 
-- **[Common Issues](/troubleshooting/common-issues)** - Solutions to frequently encountered problems
-- **[Troubleshooting](/troubleshooting/troubleshooting)** - Step-by-step fixes for technical issues  
-- **[Discord Support](/troubleshooting/discord)** - Join our community for help and support
+- **[Common Issues](./troubleshooting/common-issues)** - Solutions to frequently encountered problems
+- **[Troubleshooting](./troubleshooting/troubleshooting)** - Step-by-step fixes for technical issues  
+- **[Discord Support](./troubleshooting/discord)** - Join our community for help and support
 
 ## What You'll Learn
 
@@ -54,4 +54,4 @@ If you run into any issues while following these guides, check our FAQ section f
 
 ## Ready to Start?
 
-Begin with our **[Getting Started](/getting-started/developer-mode)** section to set up your device, then choose your preferred signing method from the options above. 
+Begin with our **[Getting Started](./getting-started/developer-mode)** section to set up your device, then choose your preferred signing method from the options above. 
