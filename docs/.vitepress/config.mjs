@@ -29,8 +29,7 @@ export default defineConfig({
         text: 'Signing Apps',
         items: [
           { text: 'Signing with Feather', link: '/guide/apps/feather' },
-          { text: 'Signing with iDevice Feather', link: '/guide/apps/idevice-feather' },
-          { text: 'Signing with ESign', link: '/guide/apps/esign' }
+          { text: 'Signing with idevice Feather', link: '/guide/apps/idevice-feather' },
         ]
       },
       {
