@@ -14,17 +14,17 @@ Before you begin sideloading apps, you'll need to prepare your device and unders
 
 Choose the signing method that works best for your needs:
 
-### [Feather](/apps/feather)
+### [Feather](./apps/feather)
 A powerful open-source signing tool that runs directly on your iOS device. Perfect for users who want full control over their signing process. (Requires Safari)
 
 
-### [idevice Feather](/apps/idevice-feather) 
+### [idevice Feather](./apps/idevice-feather) 
 Cross-platform signing solution that works on multiple devices. Great for users who need flexibility across different platforms. (Requires Wi-Fi)
 
 
 ## Extra Guides
 
-### [Enabling JIT](/guides/enabling-jit)
+### [Enabling JIT](./guides/enabling-jit)
 Learn how to enable Just-In-Time compilation for apps that require it, such as emulators and virtual machines tools.
 
 
