@@ -9,4 +9,4 @@ Download your chosen signing app:
 2. Navigate to [sign.neosign.dev](https://sign.neosign.dev/). Select the IPA file of your signer from prerequisites, or another signer if you wish (there won't be documentation from us about it).
 3. Select your `.p12` certificate and provisioning profile from the `.zip` folder. Enter the password found in `password.txt`.
 4. Select `Sign IPA`, then select "Install".
-Now, proceed to enable [developer mode](./developer-mode).
+Now, proceed to enable [developer mode](./developer-mode.md).
