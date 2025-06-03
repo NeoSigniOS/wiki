@@ -4,6 +4,8 @@ export default defineConfig({
   title: 'Sideloading Docs',
   description: 'A minimalist documentation site',
   base: '/wiki/',
+  cleanUrls: true,
+  onBrokenLinks: 'warn',
   
   // light theme by default
   appearance: 'light',
