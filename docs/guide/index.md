@@ -1,6 +1,6 @@
-# Sideloading Documentation
+# NeoSign Documentation
 
-Welcome to the complete sideloading documentation! This guide covers everything you need to know about installing and sideloading apps with your developer cert.
+Welcome to the complete NeoSign sideloading documentation! This guide covers everything you need to know about installing and sideloading apps with your developer certificate. (Is tailored to NeoSign, but most instructions work for everyone)
 
 ## Getting Started
 
@@ -8,28 +8,23 @@ Before you begin sideloading apps, you'll need to prepare your device and unders
 
 - **[How to Download Signing Apps](/guide/getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
 - **[How to turn on Developer Mode](/guide/getting-started/developer-mode)** - Enable this essential setting on your iOS device
-- **[How to use Signing Apps](/guide/apps/feather)** - How to use sideload with apps like Feather
+- **How to set up Signing Apps ([Feather](/guide/apps/feather) or [Feather-idevice](/guide/apps/idevice-feather))** - How to setup and sideload with your signer apps
 
 ## Signing Methods
 
 Choose the signing method that works best for your needs:
 
 ### [Feather](/guide/apps/feather)
-A powerful open-source signing tool that runs directly on your iOS device. Perfect for users who want full control over their signing process.
+A powerful open-source signing tool that runs directly on your iOS device. Perfect for users who want full control over their signing process. (Requires Safari)
 
 
-### [iDevice Feather](/guide/apps/idevice-feather) 
-Cross-platform signing solution that works on multiple devices. Great for users who need flexibility across different platforms.
-
-
-
-### [ESign](/guide/apps/esign)
-Popular iOS-native signing application with a user-friendly interface. Ideal for beginners getting started with sideloading.
+### [idevice Feather](/guide/apps/idevice-feather) 
+Cross-platform signing solution that works on multiple devices. Great for users who need flexibility across different platforms. (Requires Wi-Fi)
 
 
 ## Extra Guides
 
-### [Enabling JIT ](/guide/guides/enabling-jit)
+### [Enabling JIT](/guide/guides/enabling-jit)
 Learn how to enable Just-In-Time compilation for apps that require it, such as emulators and virtual machines tools.
 
 
@@ -59,4 +54,4 @@ If you run into any issues while following these guides, check our FAQ section f
 
 ## Ready to Start?
 
-Begin with our **[Getting Started](/guide/getting-started/developer-mode)** section to set up your device, then choose your preferred signing method from the options above. 
+Begin with our **[Getting Started](/guide/getting-started/downloading-signing-apps)** section to set up your device, then choose your preferred signing method from the options above. 
