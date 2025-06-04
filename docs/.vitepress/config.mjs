@@ -10,6 +10,7 @@ export default defineConfig({
   appearance: 'light',
   
   themeConfig: {
+    logo: { src: '/DarkColored.png', width: 24, height: 24 },
     // clean navigation
     nav: [
       { text: 'Home', link: '/' },
@@ -54,6 +55,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/NeoSigniOS' },
       { icon: 'discord', link: 'https://discord.gg/MhhydftA2u' }
     ],
+    
 
     // footer
     footer: {
