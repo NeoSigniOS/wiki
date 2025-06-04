@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Sideloading Docs',
+  title: 'NeoSign Docs',
   description: 'A minimalist documentation site',
   base: '/wiki/',
   cleanUrls: true,
@@ -51,7 +51,8 @@ export default defineConfig({
 
     // social links
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/NeoSigniOS' }
+      { icon: 'github', link: 'https://github.com/NeoSigniOS' },
+      { icon: 'discord', link: 'https://discord.gg/MhhydftA2u' }
     ],
 
     // footer
