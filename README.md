@@ -1,4 +1,4 @@
-# Sideloading Docs
+# NeoSign Docs
 
 ## Installation
 
