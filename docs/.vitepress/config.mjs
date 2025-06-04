@@ -5,7 +5,6 @@ export default defineConfig({
   description: 'A minimalist documentation site',
   base: '/wiki/',
   cleanUrls: true,
-  ignoreDeadLinks: true,
   
   // light theme by default
   appearance: 'light',
