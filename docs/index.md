@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/NeoSigniOS/wiki
+  image:
+    src: /assets/DarkColored.png
+    alt: NeoSign
 
 features:
   - title: ⚡ Lightning Fast
