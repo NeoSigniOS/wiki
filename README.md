@@ -1,11 +1,11 @@
-# Sideloading Docs
+# NeoSign Docs
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd sideloading-docs
+git clone https://github.com/NeoSigniOS/wiki
+cd wiki
 
 # Install dependencies
 npm install

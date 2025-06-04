@@ -45,4 +45,6 @@ sudo apt install -y usbmuxd
 
 ## Inside feather
 turn on vpn (suggest shortcut automation?) import certificate
+## To Sign Apps
+AltSource docs, signing docs
 

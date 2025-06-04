@@ -1,6 +1,6 @@
-# Sideloading Documentation
+# NeoSign Documentation
 
-Welcome to the complete sideloading documentation! This guide covers everything you need to know about installing and sideloading apps with your developer cert. (Is tailored to NeoSign, but works for anyone)
+Welcome to the complete NeoSign sideloading documentation! This guide covers everything you need to know about installing and sideloading apps with your developer certificate. (Is tailored to NeoSign, but most instructions work for everyone)
 
 ## Getting Started
 
@@ -54,4 +54,4 @@ If you run into any issues while following these guides, check our FAQ section f
 
 ## Ready to Start?
 
-Begin with our **[Getting Started](/guide/getting-started/developer-mode)** section to set up your device, then choose your preferred signing method from the options above. 
+Begin with our **[Getting Started](/guide/getting-started/downloading-signing-apps)** section to set up your device, then choose your preferred signing method from the options above. 
