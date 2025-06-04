@@ -13,7 +13,7 @@ hero:
       text: View on GitHub
       link: https://github.com/NeoSigniOS/wiki
   image:
-    src: /assets/DarkColored.png
+    src: /DarkColored.png
     alt: NeoSign
 
 features:
