@@ -1,6 +1,6 @@
-# Sideloading Documentation
+# NeoSign Documentation
 
-Welcome to the complete sideloading documentation! This guide covers everything you need to know about installing and sideloading apps with your developer cert. (Is tailored to NeoSign, but works for anyone)
+Welcome to the complete NeoSign sideloading documentation! This guide covers everything you need to know about installing and sideloading apps with your developer certificate. (Is tailored to NeoSign, but most instructions work for everyone)
 
 ## Getting Started
 
