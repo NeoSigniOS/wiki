@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /docs/guide/
+      link: /guide/
     - theme: alt
       text: View on GitHub
       link: https://github.com/NeoSigniOS/wiki
