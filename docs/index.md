@@ -17,10 +17,10 @@ hero:
     alt: NeoSign
 
 features:
-  - title: ⚡ Lightning Fast
-    details: Built on Vite for instant hot reload and optimized builds
-  - title: 📝 Markdown-Powered
-    details: Write content in Markdown with Vue component support
-  - title: 🎨 Customizable
-    details: Flexible theming system with dark mode support
+  - title: 📝 Easy
+    details: Works with apps like Feather to make sideloading on your iDevice easy.
+  - title: ⚡ Entitlements
+    details: Gives basic entitlements, including get-task-allow, built-in, and allows full entitlement customization.
+  - title: 🎨 Community
+    details: Has an active, helpful Discord community for troubleshooting and support.
 --- 
