@@ -52,9 +52,6 @@ This documentation will teach you:
 If you run into any issues while following these guides, check our FAQ section first. For additional support, our troubleshooting guides cover the most common problems and their solutions.
 :::
 
-## Quick Navigation
-
-
 ## Ready to Start?
 
 Begin with our **[Getting Started](/guide/getting-started/downloading-signing-apps)** section to set up your device, then choose your preferred signing method from the options above. 
