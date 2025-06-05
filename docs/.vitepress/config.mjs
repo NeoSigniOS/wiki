@@ -58,7 +58,7 @@ export default defineConfig({
     // social links
     socialLinks: [
       { icon: 'github', link: 'https://github.com/NeoSigniOS' },
-      { icon: 'discord', link: 'https://discord.gg/MhhydftA2u' }
+      { icon: 'discord', link: 'https://discord.neosign.dev/' }
     ],
     
 
