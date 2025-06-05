@@ -42,7 +42,8 @@ export default defineConfig({
       {
         text: 'Guides',
         items: [
-          { text: 'Enabling JIT', link: '/guide/guides/enabling-jit' }
+          { text: 'Enabling JIT', link: '/guide/guides/enabling-jit' },
+          { text: 'How to Make a Pairing File', link: '/guide/guides/pairing-file' }
         ]
       },
       {
@@ -402,14 +403,49 @@ export default defineConfig({
         box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
       }
       
+      .vp-doc div[class*="language-"] pre {
+        background-color: transparent !important;
+        border: none !important;
+        border-radius: 0;
+        margin: 0;
+        padding: 20px;
+        overflow-x: auto;
+      }
+      
       .vp-doc div[class*="language-"] pre code {
+        background-color: transparent !important;
+        border: none !important;
+        padding: 0 !important;
         color: #334155;
+        font-size: 14px;
+        line-height: 1.6;
+        white-space: pre;
       }
       
       .vp-doc div[class*="language-"]::before {
         background-color: #e2e8f0;
         color: #64748b;
         border-bottom: 1px solid #cbd5e1;
+        font-size: 12px;
+        font-weight: 500;
+        padding: 8px 16px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+      
+      /* Copy button for light mode */
+      .vp-doc div[class*="language-"] button.copy {
+        background-color: #e2e8f0;
+        border: 1px solid #cbd5e1;
+        color: #64748b;
+        border-radius: 4px;
+        transition: all 0.2s ease;
+      }
+      
+      .vp-doc div[class*="language-"] button.copy:hover {
+        background-color: #cbd5e1;
+        color: #475569;
+        transform: translateY(-1px);
       }
       
       .vp-doc blockquote {

@@ -26,6 +26,8 @@ Cross-platform signing solution that works on multiple devices. Great for users 
 
 ### [Enabling JIT](/guide/guides/enabling-jit)
 Learn how to enable Just-In-Time compilation for apps that require it, such as emulators and virtual machines tools.
+### [How to Make a Pairing File](/guide/guides/pairing-file)
+Learn how to enable Just-In-Time compilation for apps that require it, such as emulators and virtual machines tools.
 
 
 ## Need Help?
