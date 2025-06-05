@@ -14,7 +14,7 @@ Download your chosen signing app:
 - [idevice Feather](https://github.com/khcrysalis/Feather/releases/latest/download/Feather-pairing.ipa)
 
 ::: warning
-If you dont know which one to install and sideload, choose Feather default.
+If you don't know which one to install and sideload, choose Feather default.
 :::
 
 ## Sideload Using an Online Signer
