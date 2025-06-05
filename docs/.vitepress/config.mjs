@@ -440,7 +440,7 @@ export default defineConfig({
       .custom-block.info {
         background-color: rgba(59, 130, 246, 0.1);
         border-left-color: #3b82f6;
-        color:rgb(0, 0, 0);
+        color: rgb(0, 0, 0);
       }
       
       .custom-block.tip {
