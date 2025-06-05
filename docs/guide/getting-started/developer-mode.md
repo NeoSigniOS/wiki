@@ -5,7 +5,7 @@ Now that you have signed a signer IPA, it's time to turn on Developer Mode.
 3. Flip the switch to turn your developer mode on. Now, allow your phone to restart.
 
 
-![Developer Mode](./assets/developermode.PNG)
+![Developer Mode](./assets/developer-mode.PNG)
 
 Follow the instructions to set up your chosen signer:
 - [Feather](/guide/apps/feather) 
