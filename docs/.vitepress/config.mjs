@@ -36,14 +36,14 @@ export default defineConfig({
         text: 'Signing Apps',
         items: [
           { text: 'Signing with Feather', link: '/guide/apps/feather' },
-          { text: 'Signing with idevice Feather', link: '/guide/apps/idevice-feather' },
+          { text: 'Signing with idevice Feather', link: '/guide/apps/feather-idevice' },
         ]
       },
       {
         text: 'Guides',
         items: [
           { text: 'Enabling JIT', link: '/guide/guides/enabling-jit' },
-          { text: 'How to Make a Pairing File', link: '/guide/guides/pairing-file' }
+          { text: 'How to Create a Pairing File', link: '/guide/guides/pairing-file' }
         ]
       },
       {
