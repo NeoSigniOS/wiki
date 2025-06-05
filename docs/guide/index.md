@@ -18,7 +18,7 @@ Choose the signing method that works best for your needs:
 A powerful open-source signing tool that runs directly on your iOS device. Perfect for users who want full control over their signing process. (Requires Safari)
 
 
-### [Feather-idevice](/guide/apps/idevice-feather) 
+### [Feather-idevice](/guide/apps/feather-idevice) 
 Cross-platform signing solution that works on multiple devices. Great for users who need flexibility across different platforms. (Requires Wi-Fi)
 
 
