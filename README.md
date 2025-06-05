@@ -1,7 +1,7 @@
 # NeoSign Docs
 
 ## Installation
-
+Install [Node.js + npm](https://nodejs.org/en/download) (version 18 or higher)
 ```bash
 # Clone the repository
 git clone https://github.com/NeoSigniOS/wiki neosign-docs
