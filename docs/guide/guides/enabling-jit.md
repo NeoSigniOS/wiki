@@ -4,7 +4,9 @@ Download [StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) from 
 
 Open StikDebug to set up your file structure and allow the VPN.
 ## Create a pairing file
-Follow the instructions [here](/guide/guides/pairing-file) to generate and import a pairing file. :::warning Note that your pairing file will need to be regenerated if you update or reset your iDevice.:::
+Follow the instructions [here](/guide/guides/pairing-file) to generate and import a pairing file.
+:::warning Note that your pairing file will need to be regenerated if you update or reset your iDevice.
+:::
 ## Enabling JIT
 With your pairing file imported, restart your app while on Wi-Fi to mount the DDI, completing your setup.
 
