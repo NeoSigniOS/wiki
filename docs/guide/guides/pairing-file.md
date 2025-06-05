@@ -8,7 +8,7 @@ idevice pair allows us to create a pairing file for apps like Feather-idevice to
 :::info
 If you update or reset your iDevice, your pairing file will become invalid and you will need to regenerate it.
 :::
-Before you attempt to generate a pairing file, make sure you have [sideloaded an app](/guide/getting-started/downloading-signing-apps), [enabled developer mode](/guide/getting-started/developer-mode), and opened the app to set up the file structure.
+Before you attempt to generate a pairing file, make sure you have [sideloaded an app](/guide/getting-started/downloading-signing-apps), [enabled developer mode](/guide/getting-started/developer-mode), and opened the app to set up its file structure.
 ## Operating System
 
 ### Windows (64-bit)
