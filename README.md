@@ -4,8 +4,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/NeoSigniOS/wiki
-cd wiki
+git clone https://github.com/NeoSigniOS/wiki neosign-docs
+cd neosign-docs
 
 # Install dependencies
 npm install
