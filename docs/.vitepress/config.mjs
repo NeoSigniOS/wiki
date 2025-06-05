@@ -1,14 +1,16 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Sideloading Docs',
+  title: 'NeoSign Docs',
   description: 'A minimalist documentation site',
   base: '/wiki/',
+  cleanUrls: true,
   
   // light theme by default
   appearance: 'light',
   
   themeConfig: {
+    logo: { src: '/DarkColored.png', width: 24, height: 24 },
     // clean navigation
     nav: [
       { text: 'Home', link: '/' },
@@ -29,8 +31,7 @@ export default defineConfig({
         text: 'Signing Apps',
         items: [
           { text: 'Signing with Feather', link: '/guide/apps/feather' },
-          { text: 'Signing with iDevice Feather', link: '/guide/apps/idevice-feather' },
-          { text: 'Signing with ESign', link: '/guide/apps/esign' }
+          { text: 'Signing with idevice Feather', link: '/guide/apps/idevice-feather' },
         ]
       },
       {
@@ -51,13 +52,15 @@ export default defineConfig({
 
     // social links
     socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/NeoSigniOS' },
+      { icon: 'discord', link: 'https://discord.gg/MhhydftA2u' }
     ],
+    
 
     // footer
     footer: {
       message: 'Built with VitePress',
-      copyright: 'Copyright © 2024'
+      copyright: 'Copyright © 2025'
     }
   },
 
