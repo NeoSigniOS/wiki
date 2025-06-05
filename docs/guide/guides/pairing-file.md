@@ -31,7 +31,7 @@ Before you attempt to generate a pairing file, make sure you have [sideloaded an
 ### Linux
 
 1. In the linux commandline, run the following code to install usbmuxd:
-```
+```bash
 sudo apt install -y usbmuxd
 ```
 2. Download the version of idevice pair that corresponds to your PC's architecture and make it executable.
