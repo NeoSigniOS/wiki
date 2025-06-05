@@ -10,7 +10,7 @@ You may continue with this guide if you arent a neosign customer or are having t
 
 After receiving your certificates from NeoSign (or a communication from another cert provider, if applicable) containing your cert. Save your `neosign.zip` to your Files app.
 Download your chosen signing app:
-- [Feather Default](https://github.com/khcrysalis/Feather/releases/latest/download/Feather-default.ipa)
+- [Feather (Default)](https://github.com/khcrysalis/Feather/releases/latest/download/Feather-default.ipa)
 - [idevice Feather](https://github.com/khcrysalis/Feather/releases/latest/download/Feather-pairing.ipa)
 
 ::: warning
@@ -24,6 +24,6 @@ If you don't know which one to install and sideload, choose Feather default.
 4. Select `Sign IPA`, then select "Install".
 5. Your setup should look similar to this:
 
-![Signing interface](./assets/sign.PNG)
+![Signing interface](./assets/sign.png)
 
 Now, proceed to enable [developer mode](/guide/getting-started/developer-mode).
