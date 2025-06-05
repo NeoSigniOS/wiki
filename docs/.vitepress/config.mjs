@@ -347,6 +347,12 @@ export default defineConfig({
         line-height: 1.5;
       }
       
+      .dark .custom-block.info {
+        background-color: rgba(59, 130, 246, 0.08);
+        border-left-color: #3b82f6;
+        color: rgba(255, 255, 255, 0.95);
+      }
+      
       .dark .custom-block.tip {
         background-color: rgba(16, 185, 129, 0.08);
         border-left-color: #10b981;
@@ -429,6 +435,12 @@ export default defineConfig({
         border-left: 3px solid;
         font-size: 14px;
         line-height: 1.5;
+      }
+      
+      .custom-block.info {
+        background-color: rgba(59, 130, 246, 0.1);
+        border-left-color: #3b82f6;
+        color: rgb(0, 0, 0);
       }
       
       .custom-block.tip {
