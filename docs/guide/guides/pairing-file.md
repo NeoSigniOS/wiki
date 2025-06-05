@@ -5,7 +5,7 @@
 - **Linux**: (x86_64: [iDevicePair--linux-x86_64.AppImage](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--linux-x86_64.AppImage) or AArch64: [iDevicePair--linux-aarch64.AppImage](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--linux-aarch64.AppImage))
 
 idevice pair allows us to create a pairing file for apps like Feather-idevice to talk to your device remotely. This is required to use these apps, otherwise they will not function.
-:::info
+:::warning
 If you update or reset your iDevice, your pairing file will become invalid and you will need to regenerate it.
 :::
 Before you attempt to generate a pairing file, make sure you have [sideloaded an app](/guide/getting-started/downloading-signing-apps), [enabled developer mode](/guide/getting-started/developer-mode), and opened the app to set up its file structure.
