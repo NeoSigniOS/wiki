@@ -8,7 +8,7 @@ You may continue with this guide if you arent a neosign customer or are having t
 
 ## Prerequisites
 
-After recieving your certificates from NeoSign (or a communication from another cert provider, if applicable) containing your cert. Save your `neosign.zip` to your Files app.
+After receiving your certificates from NeoSign (or a communication from another cert provider, if applicable) containing your cert. Save your `neosign.zip` to your Files app.
 Download your chosen signing app:
 - [Feather Default](https://github.com/khcrysalis/Feather/releases/latest/download/Feather-default.ipa)
 - [idevice Feather](https://github.com/khcrysalis/Feather/releases/latest/download/Feather-pairing.ipa)
