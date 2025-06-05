@@ -5,7 +5,8 @@
 ## Pairing File Guide
 Follow the instructions [here](/guide/guides/pairing-file) to generate and import a pairing file.
 :::warning
-Note that your pairing file will need to be regenerated if you update or reset your iDevice. :::
+Note that your pairing file will need to be regenerated if you update or reset your iDevice.
+:::
 ## Inside Feather
 Activate StosVPN, then, in Feather, ensure your setup is complete by making sure the light inside "Tunnel & Pairing" is pulsing.
 In Certificates, tap the Plus option and import your certificate using your certificate, provisioning profile, and password (if not already added).
