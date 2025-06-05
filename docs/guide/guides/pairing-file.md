@@ -39,7 +39,3 @@ sudo apt install -y usbmuxd
 4. Unlock your device, then execute idevice pair and select your device in the drop-down menu.
 5. Ensure your device is unlocked and opened to the home screen, then select "generate" (If already using idevice Feather, select "load" instead). When a prompt appears on your device, tap "trust". Your pairing file should appear.
 5. Ensure your device is still open to the home screen, then scroll down to the StikDebug section and select "install". The word "success" should appear in green.
-
-## Enabling JIT
-The first time you open StikDebug, allow the VPN, and restart your app while on Wi-Fi to mount the DDI.
-Now, to enable JIT, simply open StikDebug, tap Attach Debugger, and select the app you want to enable JIT for!
