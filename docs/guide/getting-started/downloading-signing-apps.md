@@ -22,7 +22,7 @@ If you dont know which one to install and sideload, choose Feather default.
 2. Navigate to [https://sign.neosign.dev](https://sign.neosign.dev/). Select the IPA file of your signer from prerequisites, or another signer if you wish (there won't be documentation from us about it).
 3. Select your `.p12` certificate and provisioning profile from the same folder. Enter the password found in `password.txt`.
 4. Select `Sign IPA`, then select "Install".
-5. Your setup should've looked like this
+5. Your setup should look similar to this:
 
 ![Signing interface](./assets/sign.PNG)
 
