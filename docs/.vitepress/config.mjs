@@ -9,6 +9,11 @@ export default defineConfig({
   // light theme by default
   appearance: 'light',
   
+  // Vite configuration to handle assets
+  vite: {
+    assetsInclude: ['**/*.PNG', '**/*.JPG', '**/*.JPEG', '**/*.GIF', '**/*.SVG']
+  },
+  
   themeConfig: {
     logo: { src: '/DarkColored.png', width: 24, height: 24 },
     // clean navigation
