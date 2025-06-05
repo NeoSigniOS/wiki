@@ -4,7 +4,7 @@
 - **macOS**: [iDevicePair--macos-universal.dmg](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--macos-universal.dmg)
 - **Linux**: (x86_64: [iDevicePair--linux-x86_64.AppImage](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--linux-x86_64.AppImage) or AArch64: [iDevicePair--linux-aarch64.AppImage](https://github.com/jkcoxson/idevice_pair/releases/latest/download/iDevicePair--linux-aarch64.AppImage))
 
-idevice pair allows us to create a pairing file for apps like Feather-idevice to talk to your device remotely. This is required to use these apps, otherwise they will not function.
+idevice pair allows us to create a pairing file for apps like [Feather-idevice](/guide/apps/feather-idevice) to talk to your device remotely. This is required to use these apps, otherwise they will not function.
 :::warning
 If you update or reset your iDevice, your pairing file will become invalid and you will need to regenerate it.
 :::
