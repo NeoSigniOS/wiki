@@ -24,6 +24,6 @@ If you don't know which one to install and sideload, choose Feather default.
 4. Select `Sign IPA`, then select "Install".
 5. Your setup should look similar to this:
 
-![Signing interface](./assets/sign.png)
+![Signing interface](./assets/sign.PNG)
 
 Now, proceed to enable [developer mode](/guide/getting-started/developer-mode).
