@@ -28,22 +28,23 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Introduction', link: '/guide/' },
+          { text: 'Obtaining your Certificate', link: '/guide/getting-started/obtaining-your-cert' },
           { text: 'Downloading Signing Apps', link: '/guide/getting-started/downloading-signing-apps' },
-          { text: 'Turning on Developer Mode', link: '/guide/getting-started/developer-mode' }
+          { text: 'Enabling Developer Mode', link: '/guide/getting-started/developer-mode' }
         ]
       },
       {
         text: 'Signing Apps',
         items: [
           { text: 'Signing with Feather', link: '/guide/apps/feather' },
-          { text: 'Signing with idevice Feather', link: '/guide/apps/feather-idevice' },
+          { text: 'Signing with Feather-idevice', link: '/guide/apps/feather-idevice' },
         ]
       },
       {
         text: 'Guides',
         items: [
-          { text: 'Enabling JIT', link: '/guide/guides/enabling-jit' },
-          { text: 'How to Create a Pairing File', link: '/guide/guides/pairing-file' }
+          { text: 'Generating a Pairing File', link: '/guide/guides/pairing-file' },
+          { text: 'Enabling JIT', link: '/guide/guides/enabling-jit' }
         ]
       },
       {
