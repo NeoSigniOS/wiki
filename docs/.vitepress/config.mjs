@@ -28,7 +28,6 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Introduction', link: '/guide/' },
-          { text: 'Obtaining your Certificate', link: '/guide/getting-started/obtaining-your-cert' },
           { text: 'Downloading Signing Apps', link: '/guide/getting-started/downloading-signing-apps' },
           { text: 'Enabling Developer Mode', link: '/guide/getting-started/developer-mode' }
         ]
