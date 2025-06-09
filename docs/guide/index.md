@@ -8,13 +8,13 @@ Before you begin sideloading apps, you'll need to prepare your device and unders
 
 - **[How to Download Signing Apps](/guide/getting-started/downloading-signing-apps)** - Learn about the tools that make sideloading possible
 - **[How to turn on Developer Mode](/guide/getting-started/developer-mode)** - Enable this essential setting on your iOS device
-- **How to set up Signing Apps (Feather, [Server](/guide/apps/feather-server) or [idevice](/guide/apps/feather-idevice) method)** - How to setup and sideload with your signer apps
+- **How to set up Signing Apps with Feather ([Server](/guide/apps/feather-server) or [idevice](/guide/apps/feather-idevice) method)** - How to setup and sideload with your signer apps
 
 ## Signing Methods
 
 Choose the signing method that works best for your needs:
 
-### [Feather-Server](/guide/apps/feather)
+### [Feather-Server](/guide/apps/feather-server)
 (Default) A powerful open-source signing tool that runs directly on your iOS device. Perfect for users who want full control over their signing process. (Requires Safari)
 
 
