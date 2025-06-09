@@ -10,12 +10,7 @@ You may continue with this guide if you aren't a NeoSign customer or are having 
 
 You should have received your certificate(s) in a communication from NeoSign (or another provider, if applicable) containing your cert. Save the folder containing your certificate(s) (`neosign.zip` for NeoSign users) to your Files app.
 Download your chosen signing app:
-- [Feather (default)](https://github.com/khcrysalis/Feather/releases/latest/download/Feather-default.ipa)
-- [idevice Feather](https://github.com/khcrysalis/Feather/releases/latest/download/Feather-pairing.ipa)
-
-::: warning
-If you don't know which version to sideload, choose Feather (default).
-:::
+- [Feather (recommended by NeoSign)](https://github.com/khcrysalis/Feather/releases/latest/download/Feather.ipa)
 
 ## Sideload Using an Online Signer
 1. In the iOS Files app, unzip the folder with your development certificate. You may see different files, such as development, distribution, etc. You may choose any for this process, but make sure to use the correct `.p12` with its corresponding `.mobileprovision`.
