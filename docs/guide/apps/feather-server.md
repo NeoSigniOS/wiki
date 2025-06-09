@@ -1,4 +1,4 @@
-# Signing with Feather
+# Signing with Feather (Server method)
 ## Steps
 1. Open Feather
 2. In Server and SSL, set "Installation Type" to "Semi Local."
