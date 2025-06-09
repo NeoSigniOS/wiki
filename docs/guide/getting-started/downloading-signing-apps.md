@@ -1,7 +1,7 @@
 # Downloading Signing Apps to Your Device
 
 ::: info
-For NeoSign customers, we provide a one-click Feather install link (for both Feather (default) and Feather-idevice) in the email we send containing your cert. It is recommended that you install via these links, since they are presigned with your cert.
+For NeoSign customers, we provide a one-click Feather install link in the email we send containing your cert. It is recommended that you install via these links, since they are presigned with your cert.
 
 You may continue with this guide if you aren't a NeoSign customer or are having trouble installing the app from the link.
 :::
