@@ -35,7 +35,7 @@ export default defineConfig({
       {
         text: 'Signing Apps',
         items: [
-          { text: 'Signing with Feather', link: '/guide/apps/feather-server' },
+          { text: 'Signing with Feather-Server', link: '/guide/apps/feather-server' },
           { text: 'Signing with Feather-idevice', link: '/guide/apps/feather-idevice' },
         ]
       },
