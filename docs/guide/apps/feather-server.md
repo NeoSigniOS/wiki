@@ -1,8 +1,9 @@
 # Signing with Feather (Server method)
 ## Steps
 1. Open Feather
-2. In Server and SSL, set "Installation Type" to "Semi Local."
-3. In Certificates, select your `.p12` certificate and provisioning file, then enter your password.
+2. In Installation, select Server
+3. In Server and SSL, set "Installation Type" to "Semi Local."
+4. In Certificates, select your `.p12` certificate and provisioning file, then enter your password.
 
 Congratulations, you're done!
 ## Signing apps
