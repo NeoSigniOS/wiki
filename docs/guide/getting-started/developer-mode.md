@@ -8,5 +8,5 @@ Now that you have signed a signer app, it's time to turn on Developer Mode.
 ![Developer Mode](./assets/developer-mode.png)
 
 Follow the instructions to set up your chosen signer:
-- [Feather (default)](/guide/apps/feather) 
+- [Feather-Server](/guide/apps/feather-server) 
 - [Feather-idevice](/guide/apps/feather-idevice)
