@@ -1,6 +1,6 @@
 # Enabling JIT
 :::danger
-StikDebug's method of enabling JIT has been patched in the iOS 26 Developer Beta. A workaround is in progress, but for now, if you wish to use JIT, DON'T UPDATE!!
+Not all apps support enabling JIT on iOS 26. For more information, consult your app's documentation (if it doesn't mention support, it probably doesn't have it).
 :::
 ## Prerequisites
 Download [StikDebug](https://apps.apple.com/us/app/stikdebug/id6744045754) from the Apple App Store, and ensure you have sideloaded your apps with the necessary entitlements and enabled developer mode.
